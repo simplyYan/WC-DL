@@ -1,0 +1,10 @@
+wc-dl = <wc.dl:license>
+
+wc-dl.LICENSED_PROJECTS {
+Project Name       ::      Added      ::      Founder
+------------               -----              -------
+MythCoder                  10/12/2023         simplyYan
+
+}
+
+!@ end <wc-dl> 
